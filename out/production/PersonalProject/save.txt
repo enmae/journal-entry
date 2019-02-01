@@ -1,0 +1,15 @@
+Name: Easton
+Number of Entries: 3
+Journal title: Journal
+Date: Mon Nov 26 23:16:20 PST 2018
+Title: Test
+Body: hello world
+==============
+Date: Tue Nov 27 12:52:41 PST 2018
+Title: Test2
+Body: Doru is with me testing this
+==============
+Date: Wed Nov 28 11:57:00 PST 2018
+Title: TEST3
+Body: hahahaha
+==============
